@@ -125,4 +125,4 @@ The report has **3 pages, 4 KPI cards and 8 charts**.
 
 **Manohar Babu Balaga**
 Aspiring Data Analyst | Python • SQL • Power BI • Excel
-📧 balagamanoharbabu123@gmail.com
+ balagamanoharbabu123@gmail.com

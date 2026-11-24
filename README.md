@@ -87,15 +87,8 @@ The report has **3 pages, 4 KPI cards and 8 charts**.
 
 ## 7. Screenshots
 
-Add your dashboard images to a `screenshots` folder and link them here:
-
-```
-![EV Overview](screenshots/ev_overview.png)
-![Final Analysis](screenshots/final_analysis.png)
-![Conclusion](screenshots/conclusion.png)
-```
-
----
+<img width="1920" height="1008" alt="Screenshot 2026-11-24 193934" src="https://github.com/user-attachments/assets/99024e43-ec69-4711-ac2f-1b3a084d8642" />
+<img width="1920" height="1008" alt="Screenshot 2026-11-24 194002" src="https://github.com/user-attachments/assets/adf85ff4-1efc-4269-9e2f-3507c9d940f8" />
 
 ## 8. How to Open This Project
 
